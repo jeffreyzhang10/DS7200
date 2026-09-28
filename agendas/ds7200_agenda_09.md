@@ -20,9 +20,9 @@ Due by Friday, Oct 2nd at 11:59pm ET:
 - Review Regression NB
   - fit, transform, evaluate
 
-- Students work on demo: mllib_regression_with_caching  
-  Instructor to provide notebook
-
 - Slides: MLlib Method Summary
+
+- Students work on experiment: mllib_regression_with_caching  
+  Instructor to provide notebook
 
 - Review MLlib lab
