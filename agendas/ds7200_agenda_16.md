@@ -7,7 +7,7 @@ Due by Friday, Oct 30th at 11:59pm ET:
 - Lab 6: Build Static Website with Amazon S3
 - Quiz 8: AWS
 
-Due by Friday, Nov 4th at 11:59pm ET:
+Due by Wednesday, Nov 4th at 11:59pm ET:
 - Lab 7: Connecting Amazon Services: S3, IAM, EC2
 
 ---
@@ -17,4 +17,4 @@ Tasks
 - Gorila with Claude Code
   - instructor to share: claude_code_gorila_prompts
 
-- [time permitting] Amazon Identity and Access Management (IAM) 
+- Review slides: Amazon Identity and Access Management (IAM) 
